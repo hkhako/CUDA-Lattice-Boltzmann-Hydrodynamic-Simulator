@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.14393.0
+Debug|Win32|C:\Users\Harold\Documents\My Workspace\My Projects\My Visual Studio Projects\CUDA-Lattice-Boltzmann-Hydrodynamic-Simulator\Build\CMakeFiles\3.6.1\CompilerIdC\|

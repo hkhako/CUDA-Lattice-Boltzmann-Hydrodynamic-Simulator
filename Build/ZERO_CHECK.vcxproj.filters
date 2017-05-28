@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Harold\Documents\My Workspace\My Projects\My Visual Studio Projects\CUDA-Lattice-Boltzmann-Hydrodynamic-Simulator\Build\CMakeFiles\a198523add8cd2312dde3fea43f58c25\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{863BF3F2-5660-393B-9396-C476C658C969}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
