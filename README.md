@@ -17,7 +17,9 @@ CUDA SDK 7.0+
 CMake 2.8+
 
 ## Build Instruction
-Typical cmake project.  One can choose their favorite compiler target.  It is tested in VS2012 & VS2015, but should work in any compiler and compatible platform.
+Typical cmake project.  You can build with Cmake-GUI.  One can choose their favorite compiler target.  It is tested in VS2012 & VS2015, but should work in any compiler and compatible platform.
+To build with cmake command line
+
 
 
 
